@@ -9,4 +9,4 @@ API REST em Express para autenticação, utilizadores, exercícios, planos seman
 3. Execute `npm install`.
 4. Execute `npm run dev`.
 
-A API fica disponível em `http://localhost:5000`. Consulte o README da raiz para a documentação completa.
+A API fica disponível em `https://api-planfit-production.up.railway.app`. Consulte o README da raiz para a documentação completa.
